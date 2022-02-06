@@ -1,0 +1,11 @@
+.header-div{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
+.header-logo{
+    width:80px;
+    margin-right:10px;
+}

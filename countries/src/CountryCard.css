@@ -1,0 +1,38 @@
+.country-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 300px;
+    width: 250px;
+    margin:20px;
+    padding:20px;
+    border:1px solid black ;
+    border-radius: 1.5%;
+    background-color: #cfcfcf;
+             
+}
+.country-card-header{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom:30px;
+    margin-top:0px;
+    
+}
+.country-card-flag{
+   height:40px;
+    margin-right:10%;
+}
+.country-card-name{
+   font-size:20px;
+}
+.module-flag{
+    height: 80px;
+}
+.module-name{
+    font-size:30px;
+}
+ 
+.modal-body >p{
+    font-size:15px;
+}

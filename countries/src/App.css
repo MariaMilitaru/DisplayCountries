@@ -1,0 +1,23 @@
+.page-container{
+   margin-top:40px;
+}
+.page-container-left{
+    padding-left:20px;
+  
+}
+.page-container-left p{
+    margin-bottom: 5px;
+    font-size: 19px;
+}
+.page-container-left .filter-box{
+    color:#fafbfc;
+    padding-left:20px;
+    padding-bottom:20px;
+    padding-top:20px;
+
+} 
+.page-container-left .filter-title{
+    font-size: 20px;
+
+   
+}
